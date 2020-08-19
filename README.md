@@ -1,5 +1,5 @@
 # Personality Bias in Music Recommendation
-This repository accompanies the paper "[Personality Bias in Music Recommendation]()" by Alessandro B. Melchiorre, Eva Zangerle, Markus Schedl
+This repository accompanies the paper "[Personality Bias in Music Recommendation]" by Alessandro B. Melchiorre, Eva Zangerle, Markus Schedl
 published at RecSys 2020.
 ## Installation
 
